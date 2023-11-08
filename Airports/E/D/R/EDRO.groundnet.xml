@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="misc" name="Parking 1" lat="N49 1.90677660" lon="E7 59.62234320" heading="350" radius="7.5"/>
+		<Parking index="1" type="misc" name="Parking 2" lat="N49 1.89693120" lon="E7 59.50672440" heading="344" radius="7.5"/>
+		<Parking index="2" type="misc" name="Parking 3" lat="N49 1.89956940" lon="E7 59.52293640" heading="344" radius="7.5"/>
+		<Parking index="3" type="misc" name="Parking 4" lat="N49 1.90169760" lon="E7 59.53737240" heading="345" radius="7.5"/>
+		<Parking index="4" type="misc" name="Parking 5" lat="N49 1.90441920" lon="E7 59.55177060" heading="337" radius="7.5"/>
+		<Parking index="5" type="misc" name="Apron 1" lat="N49 1.86200400" lon="E7 59.47354860" heading="348" radius="7.5"/>
+		<Parking index="6" type="misc" name="Apron 2" lat="N49 1.85964720" lon="E7 59.45882940" heading="350" radius="7.5"/>
+		<Parking index="7" type="misc" name="Apron 3" lat="N49 1.87104120" lon="E7 59.40655980" heading="344" radius="7.5"/>
+	</parkingList>
+</groundnet>
